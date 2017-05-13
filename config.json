@@ -1,0 +1,16 @@
+{
+    "node-lirc": {
+        "commands": {
+            "irrecord": "irrecord",
+            "irsend": "irsend",
+            "lircd": "lircd",
+            "unbuffer": "unbuffer"
+        },
+        "device": "/dev/lirc0",
+        "lirc_conf": "/etc/lirc/lircd.conf",
+        "lirc_driver": "default",
+        "lirc_pid": "/var/run/lirc/lircd.pid",
+        "remote": "MY_REMOTE",
+        "tmp_dir": "tmp/"
+    }
+}

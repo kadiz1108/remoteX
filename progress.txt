@@ -1,0 +1,5 @@
+1. refer to : http://alexba.in/blog/2013/06/08/open-source-universal-remote-parts-and-pictures/
+2. setup IR receiver to the breadboard
+ ** scematics from above link does NOT fit to our ir receiver (data / voltage pin order)
+ ** refer to : http://www.raspberry-pi-geek.com/Archive/2014/03/Controlling-your-Pi-with-an-infrared-remote
+3. setting up lirc follwing alexba.in blog
