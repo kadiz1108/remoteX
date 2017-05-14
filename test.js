@@ -29,4 +29,4 @@ nodeLIRC.on('remote-config-ready', function(remoteConfig) {
 });
 
 // Start the remote control recording process
-nodeLIRC.record('MY_NEW_REMOTE_TEST);
+nodeLIRC.record('MY_NEW_REMOTE_TEST');
